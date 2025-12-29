@@ -35,3 +35,26 @@ This repository documents my **hands-on learning**, notes, labs, and progress in
 ---
 
 ## 📂 Repository Structure (Updating Regularly)
+```
+01-networking/
+02-linux/
+03-tryhackme/
+04-tools/
+05-notes/
+```
+
+---
+
+## 🚀 Learning Status
+🟢 Beginner → Consistent learner → Improving daily
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/isukapatlavamshikrishna
+- GitHub: https://github.com/vamshikrishna9060
+
+---
+
+⚠️ **Note:**  
+All activities here are for **educational purposes only**.
